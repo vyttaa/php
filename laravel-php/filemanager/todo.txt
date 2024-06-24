@@ -1,0 +1,1 @@
+a:5:{i:0;a:2:{s:4:"todo";s:7:"BELAJAR";s:6:"status";s:1:"1";}i:1;a:2:{s:4:"todo";s:5:"main ";s:6:"status";s:1:"1";}i:2;a:2:{s:4:"todo";s:11:"nonton film";s:6:"status";s:1:"1";}i:5;a:2:{s:4:"todo";s:7:"meeting";s:6:"status";s:1:"1";}i:6;a:2:{s:4:"todo";s:18:"membersihkan kamar";s:6:"status";i:0;}}
